@@ -1,3 +1,6 @@
+/* Use ctrl + D to stop in the input of getchar()*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
